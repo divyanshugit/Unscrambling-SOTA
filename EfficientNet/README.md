@@ -65,5 +65,5 @@ class EfficientNet(nn.Module):
         return self.classifier(x.view(x.shape[0], -1))
 
 ```
-Check out the notebook for more info: [EfficientNet.ipynb](./EfficientNet.ipynb)
+Check out the notebook for more info: [EfficientNet.ipynb](https://github.com/divyanshugit/Unscrambling-SOTA/blob/master/EfficientNet/EfficientNet.ipynb)
 
