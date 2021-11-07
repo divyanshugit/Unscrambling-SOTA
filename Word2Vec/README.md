@@ -7,6 +7,7 @@ In this paper, researchers proposed two novel model architectures for computing 
 It was observed that it is possible to train high quality word vectors using very simple model architectures, compared to the popular neural network models (both feedforward and recurrent). IT outperforms the previous state of the art is the [SemEval-2012 Task 2](https://www.academia.edu/13078692/Semeval_2012_task_2_Measuring_degrees_of_relational_similarity).
 
 Original Paper:[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+
 Blog by [Jay Alammar](https://github.com/jalammar): [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
 
 ```python
